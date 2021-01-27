@@ -1,6 +1,6 @@
 # Personal_Financial_Planner_Application
 
-  * Evaluate if a person's investments provide their intended "emrgency funds" (three times their monthly income):
+  * Evaluate if a person's investments provide their intended "emergency funds" (three times their monthly income):
         * This is based on the values of their crypto assets, shares, and bonds they own and whether or not they meet or exceed the designated emergency funds.
         
   * Determine the best investing strategy for retirement funds
