@@ -4,7 +4,8 @@
     <img src="FinancialPlanning.jpg" alt="FinancialPlanning" align="center">
   </a>
 </p>
-[Photo by SerpStat from Pexels](https://www.pexels.com/photo/silver-imac-displaying-line-graph-placed-on-desk-572056/)
+
+[Photo by Serpstat from Pexels](https://www.pexels.com/photo/silver-imac-displaying-line-graph-placed-on-desk-572056/)
 
 # Project Overview:
 * The intention of this project is to develop a prototype application to demo forecasting that helps investors enhance their financial wealth to create a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
@@ -43,10 +44,8 @@ This project is written in Python using Jupyter Notebook and plotted with Pandas
 
 * [Python](https://www.python.org/)
 * [JupyterNotebook](https://jupyter.org/)
-* [MapBox](https://www.mapbox.com/)
-* [NumPy](https://numpy.org/)
-* [HoloViews](http://holoviews.org/)
-* [Panels](https://panel.holoviz.org/reference/panes/HoloViews.html)
+* [Pandas](https://pandas.pydata.org/)
+
 
 ### This tool uses the following two APIs:
 * The Alpaca API to pull historical stocks and bonds information:
@@ -58,6 +57,8 @@ This project is written in Python using Jupyter Notebook and plotted with Pandas
 ### To run the notebook yourself:
 * Download the files in the 'Code' folder and create a .env file with your Alpaca API key and Alpaca Secret Key in the same directory. If deploying to your own github, remember to add the .env file extension to your .gitignore configuration to avoid exposing your API keys in your repo.
 * For faster execution during the Monte Carlo simulation, start by running 100 simulations for one year of returns. When you have the code figured out, run a full 500 simulations for 30 years.
+
+
 
 ## Contact:
 Blake Gregory - [LinkedIn](www.linkedin.com/in/blake-greg) - blake.gregory@tilineum.com
