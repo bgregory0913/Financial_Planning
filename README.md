@@ -1,10 +1,10 @@
 <h3 align="center">Financial Planning Using Monte Carlo Analysis</h3>
 <p align="center">
-  <a href="https://github.com/bgregory0913/">
-    <img src="FinancialPlanning.PNG" alt="FinancialPlanning" align="center">
+  <a href="https://github.com/bgregory0913/Financial_Planning/">
+    <img src="FinancialPlanning.jpg" alt="FinancialPlanning" align="center">
   </a>
 </p>
-
+[Photo by SerpStat from Pexels](https://www.pexels.com/photo/silver-imac-displaying-line-graph-placed-on-desk-572056/)
 
 # Project Overview:
 * The intention of this project is to develop a prototype application to demo forecasting that helps investors enhance their financial wealth to create a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
